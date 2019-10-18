@@ -1,0 +1,22 @@
+12 46
+act
+12 73
+matrix
+11 84
+attitude
+27 13
+arcade
+35 17
+abstraction
+7 56
+attenuate
+91 5
+blatant
+41 20
+gratification
+19 58
+mathematics
+9 68
+naturalization
+27 79
+atatata

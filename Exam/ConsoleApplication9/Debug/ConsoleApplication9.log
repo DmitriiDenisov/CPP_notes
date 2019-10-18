@@ -1,0 +1,14 @@
+﻿Сборка начата 21.06.2014 14:57:21.
+Проект "c:\Users\Дмитрий\documents\visual studio 2012\Projects\ConsoleApplication9\ConsoleApplication9\ConsoleApplication9.vcxproj" в узле 2 (целевые объекты Build).
+ClCompile:
+  C:\Program Files\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"stdafx.h" /Fp"Debug\ConsoleApplication9.pch" /Fo"Debug\\" /Fd"Debug\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt ConsoleApplication9.cpp
+  ConsoleApplication9.cpp
+Link:
+  C:\Program Files\Microsoft Visual Studio 11.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"c:\users\дмитрий\documents\visual studio 2012\Projects\ConsoleApplication9\Debug\ConsoleApplication9.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"c:\users\дмитрий\documents\visual studio 2012\Projects\ConsoleApplication9\Debug\ConsoleApplication9.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"c:\users\дмитрий\documents\visual studio 2012\Projects\ConsoleApplication9\Debug\ConsoleApplication9.lib" /MACHINE:X86 Debug\ConsoleApplication9.obj
+  Debug\stdafx.obj
+  ConsoleApplication9.vcxproj -> c:\users\дмитрий\documents\visual studio 2012\Projects\ConsoleApplication9\Debug\ConsoleApplication9.exe
+Построение проекта "c:\Users\Дмитрий\documents\visual studio 2012\Projects\ConsoleApplication9\ConsoleApplication9\ConsoleApplication9.vcxproj" завершено (целевые объекты Build).
+
+Сборка успешно завершена.
+
+Затраченное время: 00:00:01.37
